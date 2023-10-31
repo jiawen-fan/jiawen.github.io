@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Cosmic Reionization On Computers: Statistics, Physical Properties and Environment of Lyman Limit Systems at z∼6
+summary: High redshift IGM
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Astrophysics
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: arxiv
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://arxiv.org/abs/2212.07033
 url_code: ''
 url_pdf: ''
 url_slides: ''
